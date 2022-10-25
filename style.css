@@ -1,0 +1,12 @@
+#monCanvas {
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    background-image: url("./images/space-g7988d9eab_1920.jpg");
+    background-size: 100% 100%;
+    margin: 0 auto;
+    display: block;
+}
+body {
+    background-color: black;
+}
